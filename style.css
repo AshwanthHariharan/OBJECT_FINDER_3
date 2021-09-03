@@ -1,0 +1,34 @@
+
+body {
+
+background-size: cover;
+
+text-align: center;
+
+}
+
+.heading {
+
+margin: 0;
+
+width: 100%;
+
+}
+
+#Object_name {
+
+border-radius:5px;
+
+width: 350px;
+
+}
+
+canvas {
+
+border: 8px solid white;
+
+border-radius:20px;
+
+box-shadow: 5px 5px 5px green;
+
+}
